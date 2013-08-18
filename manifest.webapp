@@ -1,9 +1,9 @@
 {
-  "name": "My App",
-  "description": "My first",
-  "launch_path": "index.html",
+  "name": "Tic Tac Toe +",
+  "description": "TicTacToe",
+  "launch_path": "startpage.html",
   "icons": {
-    "128": "/MozillaLogo.png"
+    "128": "/icon.png"
   },
   "developer": {
     "name": "Your name or organization",
